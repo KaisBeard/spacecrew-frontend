@@ -203,8 +203,3 @@ p {
 .RulesAttributes > * {
 	margin: 15px 10px;
 }
-
-.centered {
-	display: flex;
-	align-self: center;
-}
