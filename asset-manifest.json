@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spacecrew-mission/static/css/main.36331f1c.css",
-    "main.js": "/spacecrew-mission/static/js/main.51bbeba0.js",
+    "main.js": "/spacecrew-mission/static/js/main.b038b925.js",
     "static/media/Lagus.png": "/spacecrew-mission/static/media/Lagus.53a3b0322340724f364a.png",
     "static/media/Kusma.png": "/spacecrew-mission/static/media/Kusma.22da10619d6d510f5670.png",
     "static/media/Raida.png": "/spacecrew-mission/static/media/Raida.b87a35b5bdbf3cfc8412.png",
@@ -14,10 +14,10 @@
     "static/media/Bairkan.png": "/spacecrew-mission/static/media/Bairkan.c08bd27f60c793dbc08e.png",
     "index.html": "/spacecrew-mission/index.html",
     "main.36331f1c.css.map": "/spacecrew-mission/static/css/main.36331f1c.css.map",
-    "main.51bbeba0.js.map": "/spacecrew-mission/static/js/main.51bbeba0.js.map"
+    "main.b038b925.js.map": "/spacecrew-mission/static/js/main.b038b925.js.map"
   },
   "entrypoints": [
     "static/css/main.36331f1c.css",
-    "static/js/main.51bbeba0.js"
+    "static/js/main.b038b925.js"
   ]
 }
