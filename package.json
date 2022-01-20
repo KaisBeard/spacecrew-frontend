@@ -2,7 +2,7 @@
   "name": "spacecrew-mission",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KaisBeard.github.io/spacecrew-mission",
+  "homepage": "https://kaisbeard.github.io/spacecrew-mission",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
